@@ -12,7 +12,7 @@ OpenCV의 이미지 처리 기술을 활용하여 일반 사진을 만화(Cartoo
 
 ### 2. 만화 느낌이 잘 표현되지 않는 예시 (Failure)
 <img width="606" height="345" alt="image" src="https://github.com/user-attachments/assets/51c79886-9cab-476e-b675-9aba5c998b63" />
-<p align="center">복잡한 디테일이나 노이즈가 많은 이미지에서 선이 지저분하게 표현되는 한계점입니다.</p>
+<p align="center">복잡한 디테일이나 노이즈가 많은 이미지에서 선은 지저분하고, 안쪽은 뭉개지도록 표현됩니다.</p>
 
 ---
 
