@@ -8,11 +8,11 @@ OpenCV의 이미지 처리 기술을 활용하여 일반 사진을 만화(Cartoo
 
 ### 1. 만화 느낌이 잘 표현되는 예시 (Success)
 <img width="1283" height="419" alt="image" src="https://github.com/user-attachments/assets/1ad085c5-8f61-48bc-801a-0e6385659c42" />
-*<p align="center">단순한 배경과 대비가 뚜렷한 이미지에서 깔끔한 카툰 효과가 적용된 모습입니다.</p>*
+<p align="center">단순한 배경과 대비가 뚜렷한 이미지에서 깔끔한 카툰 효과가 적용된 모습입니다.</p>
 
 ### 2. 만화 느낌이 잘 표현되지 않는 예시 (Failure)
 <img width="606" height="345" alt="image" src="https://github.com/user-attachments/assets/51c79886-9cab-476e-b675-9aba5c998b63" />
-*<p align="center">복잡한 디테일이나 노이즈가 많은 이미지에서 선이 지저분하게 표현되는 한계점입니다.</p>*
+<p align="center">복잡한 디테일이나 노이즈가 많은 이미지에서 선이 지저분하게 표현되는 한계점입니다.</p>
 
 ---
 
